@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">inConnect</string>
+    <string name="about_us_content">By providing a space for the next generation of explorers to discover, create, and work together to achieve collective goals and pursue shared ambitions, IncubateIND provides fertile ground for networking and teamwork. IncubateIND provides a central platform for all generations of explorers to discover, build and work together to solve world’s greatest problems through technology.</string>
+    <string name="title_activity_ambassador">AmbassadorActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="upcoming_events"><![CDATA[< Upcoming Events />]]></string>
+    <string name="about_us"><![CDATA[< About Us />]]></string>
+</resources>
